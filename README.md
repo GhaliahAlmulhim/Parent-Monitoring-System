@@ -1,0 +1,2 @@
+# Parent-Monitoring-System
+The system is to monitor children through the web application, by providing daily schedule from the parent in who he/she can log in to the system to specify and create tasks schedule that should be done by their children such as: homework, cleaning and so on. For the child’s point of view, he/she can log in to the web base system to check the tasks schedule provided by their parents. Children can do their tasks and while they finish they can upload their homework into the system, as well as checking the tasks needed. 
